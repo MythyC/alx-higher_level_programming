@@ -16,12 +16,15 @@ This repository is a continuation of [ALX-Low_level_programming](https://github.
 
 | Projects | Short Description |
 | -------- | ----------------- |
-| [0x00-python-hello_world](0x00-python-hello_world) | Introduction to Python scripting, bash script for running python code, python scripts and C linkedlist circle detection |
-| [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | Working with conditional statements in python (if, if ... else), loops (for, while) and working with functions |
-| [0x02-python-import_modules](0x02-python-import_modules) | working with python module and how to import functions from another file |
-| checkback | please checkback, as i will continue to update this repo as required |
+| [0x00-python-hello_world](0x00-python-hello_world) | Introduction to Python Scripting, Bash Script for Running Python Code, Python Scripts and C Linkedlist Circle Detection. |
+| [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | Working with Conditional Statements in Python (if, if ... else), Loops (for, while) and Working with Functions. |
+| [0x02-python-import_modules](0x02-python-import_modules) | Working with Python Module and How to Import Functions from another file. |
+| [0x03-python-data_structures](0x03-python-data_structures) | Working with Python Data Structures: Lists, Tuples. | 
+| checkback | please checkback, as I will continue to update this repo as required |
 
 ## WARNINGS!!!
 
 * This repo is done as a school assignment, a requirement to graduate from ALX Holberton school of computer science as a software engineer. Beware of copying my solutions. I recommend you study necessary materials and come up with your unique solution to the different tasks contained in the repo, feel free to reach out for help or guide via Whatsapp (08166726754)
 * This repo may contain errors. if you noticed any, please add a pull request.
+
+## HAPPY CODING!!!
