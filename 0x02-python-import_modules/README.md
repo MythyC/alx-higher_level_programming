@@ -15,7 +15,7 @@ At the end of this project, I was abe to learn:
 
 ## Tasks
 
-### 0. [Import a simple function from a simple file](https://github.com/MythyC/alx-higher_level_programming/blob/main/0x02-python-import_modules/0-add.py)
+### 0. [Import a simple function from a simple file](https://github.com/MythyC/alx-higher_level_programming/0x02-python-import_modules/0-add.py)
 Write a program that imports the function **def add(a, b):** from the file **add_0.py** and prints the result of the addition **1 + 2 = 3**
 
 - You have to use print function with string format to display integers
