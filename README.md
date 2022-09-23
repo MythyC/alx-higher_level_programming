@@ -20,7 +20,7 @@ This repository is a continuation of [ALX-Low_level_programming](https://github.
 | [0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions) | Working with Conditional Statements in Python (if, if ... else), Loops (for, while) and Working with Functions. |
 | [0x02-python-import_modules](0x02-python-import_modules) | Working with Python Module and How to Import Functions from another file. |
 | [0x03-python-data_structures](0x03-python-data_structures) | Working with Python Data Structures: Lists, Tuples. | 
-| checkback | please checkback, as I will continue to update this repo as required |
+| checkback | Please checkback, as I will continue to update this REPOSITORY as required |
 
 ## WARNINGS!!!
 
