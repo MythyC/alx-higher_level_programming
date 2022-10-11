@@ -19,7 +19,7 @@ This repository is a continuation of [ALX-Low_level_programming](https://github.
 | [0x03-python-data_structures](0x03-python-data_structures) | Working with Python Data Structures: Lists, Tuples. |
 | [0x04-python-more_data_structures](0x04-python-more_data_structures) | Working with More Python - More Data Structures: Set, Dictionary. |
 | checkback | Please checkback, as I will continue to update this REPOSITORY as required. |
-
+| [0x05-python-exceptions](0x05-python-exceptions) | Working with Python Execption Handling |
 ## WARNINGS!!!
 * This repo is done as a school assignment, a requirement to graduate from ALX Holberton school of computer science as a software engineer. Beware of copying my solutions. I recommend you study necessary materials and come up with your unique solution to the different tasks contained in the repo, feel free to reach out for help or guide via Whatsapp (08166726754)
 * This repo may contain errors. if you noticed any, please add a pull request.
