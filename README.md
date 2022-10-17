@@ -21,7 +21,6 @@ This repository is a continuation of [ALX-Low_level_programming](https://github.
 | [0x05-python-exceptions](0x05-python-exceptions) | Working with Python Execption Handling. |
 | [0x06-python-classes](0x06-python-classes) | Working with Python Classes and Objects. |
 | [0x08-python-more-classes](0x08-python-more-classes) | Working with more Python Classes. |
-
 | checkback | Please checkback, as I will continue to update this REPOSITORY as required. |
 
 ## WARNINGS!!!
