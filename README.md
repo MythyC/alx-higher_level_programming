@@ -21,6 +21,10 @@ This repository is a continuation of [ALX-Low_level_programming](https://github.
 | [0x05-python-exceptions](0x05-python-exceptions) | Working with Python Execption Handling. |
 | [0x06-python-classes](0x06-python-classes) | Working with Python Classes and Objects. |
 | [0x08-python-more-classes](0x08-python-more-classes) | Working with more Python Classes. |
+| [0x07- python-test-development](0x07-python-test-development) | Working with Python Test-Driven Development. |
+| [0x09=python-everything is Object](0x09-python-everything-is-object) | Working with Python Object. |
+| [0x0A-python-inheritance](0x0A-python-inheritance) | Working with Python Inheritance. |
+|[0x0B-python-input/output](0x0B-python-input/output) | Working with Python Input-Output.|
 | checkback | Please checkback, as I will continue to update this REPOSITORY as required. |
 
 ## WARNINGS!!!
